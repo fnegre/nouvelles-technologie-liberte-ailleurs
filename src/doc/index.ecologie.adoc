@@ -1,0 +1,401 @@
+// Variables prédéfinis asciidoc
+:author: Florian Nègre
+:imagesDir: assets/images
+// variables perso
+:twitter: @floriannegre
+:github: fnegre
+:videosDir: assets/videos
+:imageMaxHeight: 500
+
+
+// Configuration Reveal.js
+:revealjs_history: true
+
+= La face cachée de l'innovation technologique
+
+* Twitter : {twitter}
+* Github : {github}
+* TZ de l'Ouest - 08/03/2019
+
+[NOTE.speaker]
+--
+
+--
+
+== Mon 1er smarphone
+
+image::htc_magic.jpeg[Photo du HTC Magic, height={imageMaxHeight}]
+
+[NOTE.speaker]
+--
+
+* 1er smartphone Android sorti en France : HTC Dream (2008)
+* 2ème : HTC Magic (2009) - 320x480
+* Impatient de découvrir Android, de pouvoir lire mes mails, aller sur internet, etc.
+--
+
+== Gagner du temps, vraiment ? 
+
+[NOTE.speaker]
+--
+
+* Des heures à trouver les bons tutos/rooter/maj OS
+* Des heures à lire des articles inutiles
+* Des heures à jouer
+* Drogue : heures d'utilisation par jour, nb déverouillage par jour... 
+* Devient très lent avec les mises à jour de l'OS et certaines applications
+* On ne sait plus se servir de son cerveau
+* Transition slide suivant : je m'en suis surtout rendu compte avec la naissance de mon enfant
+--
+
+[%notitle]
+== Manif des enfants contre le smartphone des parents
+
+image::manif-enfant-smartphone.jpg[Enfant avec une pancarte protestant contre l'utilisation des smartphones par les parents, height={imageMaxHeight}]
+
+[verse, un enfant]
+Joue avec moi, pas avec ton téléphone portable 
+
+[NOTE.speaker]
+--
+
+* 8/9/2018 : manif à Hambourg des enfants protestant contre l'utilisation excessive du smartphone par leurs parents
+* Je veux profiter de ma famille sans être parasité
+* Détails manif : http://www.2m.ma/fr/news/allemagne-des-enfants-protestent-contre-leurs-parents-accros-a-leurs-smartphones-20180909/ 
+* source image : https://www.faz.net/aktuell/gesellschaft/menschen/kinder-demonstrieren-in-hamburg-gegen-handy-eltern-15777961/am-kinderwagen-der-ein-jahr-15778033.html
+--
+
+== Quelques solutions 
+
+image::smartphone-mixeur.jpg[Smartphone dans un mixer, height={imageMaxHeight}]
+
+[NOTE.speaker]
+--
+* Application pour limiter l'utilisation du smartphone
+* Ne pas garder son smartphone sur soi à la maison
+* Ne plus avoir de smartphone
+--
+
+
+== Stress de la vie moderne 
+
+Le smartphone : un symptôme parmi tant d'autres
+
+* Hyperconnexion
+* Restauration rapide
+* Tourisme de masse
+* Consommation 
+* ...
+
+[NOTE.speaker]
+--
+* On veut tout, tout de suite! 
+* On ne profite pas du moment, on planifie déjà le suivant
+* On passe nos journées à travailler afin de gagner de l'argent pour pouvoir consommer : travailler plus pour consommer plus
+* Education des enfants : trop d'activité, trop planifié
+--
+
+== Mouvement Slow 
+
+* Slow Food
+* Slow Cities
+* Slow Travel 
+* ..
+
+[NOTE.speaker]
+--
+* 1986 : lancement du Slow Food en italie (qualité, variété, locale, etc.)
+* Mouvement Slow proche de la décroissance
+* Slow city : Déplacement doux
+* Slow Education 
+* Voir Revue Ravages - n°7
+* Transition : on a parlé de l'impact individuel du smartphone, mais qu'en est il de l'impact écologique
+--
+
+== Le Smartphone : quels impacts sur la planète ? 
+
+[NOTE.speaker]
+--
+De nombreux problèmes écologiques et sociales dans les différentes étapes de la fabrication d'un smartphone jusqu'à son utilisation
+--
+
+== Composition : Métaux et terres rares
+
+image::smartphone-metaux.png[Métaux entrant dans la composition d'un smartphone, height={imageMaxHeight}]
+
+
+[NOTE.speaker]
+--
+Quelques métaux : 
+
+* Indium
+* Terbium
+* Silicium
+* Or
+
+* 17 terres rares
+* Image : http://www.isf-systext.fr/sites/default/files/field/image/IMG_ART_Outil-Metaux-Smartphone_Mai2017.png
+* https://lareleveetlapeste.fr/les-terres-rares-le-nouvel-or-noir/
+* http://www.isf-systext.fr/sites/all/animationreveal/mtxsmp/#/
+--
+
+== Extractivisme
+
+image::bagger_288_allemagne.jpg[Revue Z sur la Guyane, height={imageMaxHeight}]
+
+[NOTE.speaker]
+--
+* Bagger 288
+* Excavatrice géante à roue à godets allemande
+* N'est pas la plus grande
+* A Hambach (extraction Lignite)
+* 13 500 tonnes
+* 240 mètres de long pour 96 mètres de haut
+*  Capable de déblayer jusqu'à 240 000 tonnes par jour
+* https://fr.wikipedia.org/wiki/Bagger_288
+
+Vocabulaire : 
+
+* Junior : entreprise qui prospecte, puis qui se fait racheter ou vend le permis
+* Senior : Entreprise qui va gérer la production
+* Stérile : 
+
+--
+
+== Extraction de l'or
+
+image::mine-open-pit.jpg[Pit Fimiston Open, Plus grande mine d'Australie, height={imageMaxHeight}]
+
+[NOTE.speaker]
+--
+
+Pit Fimiston Open : Plus grande mine Australienne :
+
+* 3,5 km de long, 1,5 km de large et 360 m de profondeur - il est assez gros pour être vus de l'espac
+* Source image : https://www.superpit.com.au/publications/about-us-history-aerial-fimsiton-open-pit-jul-3-14-114-2/
+
+Montagne d'or guyane : 
+
+* Estimation 1,73 g/t 
+* La fosse prévue devrait être de 2,5 kilomètres sur 400 mètres, profondeur de 120 mètres 
+* Terrain de foot : 105 x 68m. Soit *140 terrains de foot*
+* Estimation potentiel 85 t d ’or (issues de 54 millions de tonnes de minerai)
+
+Environ 30 mg d'or dans un smartphone
+--
+
+
+== Catastrophe écologique et sociale
+
+[%step]
+* Consommation importante en eau et électricité
+* Conditions de travail 
+* Pollution des sols et de l'eau
+* Oppression des populations locales (déplacement des populations, corruption, menaces, assassinats, etc.)
+
+
+[NOTE.speaker]
+--
+* Energie : Construction de barrages pour alimenter la mine avec tous les dommages liés
+* Montagne d'or : tarif préférentiel énergie (tarif métropole alors que la centrale thermique au fuel) - Le WWF estime l'ensemble des subventions et financements prévus à 420 millions d'euros, payés par les contribuables
+* Eau : 460 000 litres / heure (montagne d'or)
+
+* Brésil : lacher d'un barrage - 58 morts et 305 disparus (25/01/2019) - source : https://www.francetvinfo.fr/monde/bresil/bresil-ce-que-l-on-sait-de-la-rupture-d-un-barrage-minier-qui-a-fait-au-moins-neuf-morts-et-300-disparus_3162507.html
+* Brésil : un autre barrage avait laché 3 ans avant, avec une même entreprise impliquée (qui n'a toujours pas payé les indemnités promises)
+
+* 207 activistes tués en 2017
+
+TODO voir  https://www.slate.fr/story/126482/smartphone-mine-dor - Une catastrophe si on ne recycle pas
+Montrer : livre "Héros de l'environnement" -  https://reporterre.net/2017-annee-la-plus-meutriere-pour-les-defenseurs-de-l-environnement
+Conditions de travail
+http://www.isf-systext.fr/node/552
+Voir image : synthese-consequences-exploitation-miniere.jpg
+
+https://fr.wikipedia.org/wiki/Montagne_d%27or_%28mine%29#Utilisation_d'eau
+
+* Transition slide : Revenons à notre smartphone et aux conditions de fabrication
+--
+
+== Fabrication Smartphone
+
+Exemple Samsung : 
+
+* 11 h de travail/jour
+* Moins de 2$ heure
+* Sans assurance
+* Travail des enfants
+* Risque pour la santé
+
+[NOTE.speaker]
+--
+http://www.lefigaro.fr/societes/2015/12/17/20005-20151217ARTFIG00139-une-ong-francaise-denonce-les-conditions-de-travail-chez-samsung.php
+Santé : substances toxiques (mercure, arsenic)
+--
+
+== Problématiques de l'utilisation du smartphone
+
+* Consommation énergie
+* Construction infrastructure (antennes, cable internet, etc.)
+* Recyclage - exemple du Fairphone 2
+* Obsolescence
+
+[NOTE.speaker]
+--
+* Internet : Si Internet était un pays il serait le 5ème consommateur mondial d’électricité
+* Source : https://www.wedogood.co/wp-content/uploads/2013/04/2016-02-CP-Event-Green-IT.pdf
+* Plus de *60 000 Antennes relais en france* http://www.mobile-users.net/antennes_mobiles/
+* Transition : Les solutions proposées sont elles les bonnes ?
+--
+
+== Les faux amis de l'écologie
+
+[verse, Kenneth Boulding]
+Celui qui croit que la croissance peut être infinie dans un monde fini 
+est soit un fou, soit un économiste.
+
+[NOTE.speaker]
+--
+La plupart des solutions écologiques mises en avant sont des solutions ne portant pas atteinte à la croissance économique
+--
+
+== Les énergies renouvelables
+
+[%step]
+* Extractivisme
+* Repose sur le pétrole
+* Addition aux énergies fossiles et non substitution
+* Au lieu de moins consommer, on met en avant les énergies renouvelables
+
+[NOTE.speaker]
+--
+
+* Métaux : néodyme dans les éoliennes
+Voir : https://deepgreenresistance.fr/illusion-technologies-vertes/
+* Enorménement subventionné
+--
+
+== La voiture électrique
+
+[%step]
+* Extractivisme : Terres rares
+* Déplacement de la pollution
+* Electricité : Déchets nucléaires
+
+
+[NOTE.speaker]
+--
+* Jusqu'à 9 sortes de terres rares dans une voiture électrique
+* Fabrication beaucoup plus énergivore qu'une voiture essence
+--
+
+== Le recyclage
+
+[%step]
+* Recyclage partiel
+* Energivore
+* Non local 
+
+[NOTE.speaker]
+--
+* C'est important de recycler 
+* Recyclage partiel : 
+Recyclage plus cher que la matière première
+Exemple Fair Phone 2 : Essaye réduire impact écologique et social - achat de pièces détachées pour réparer son téléphone (batterie, écran, etc.) - origine des métaux identifiée
+→ peu recyclable
+https://www.fairphone.com/nl/2017/02/27/recyclable-fairphone-2/
+* Des conditions sociales précaires
+* L'Union européenne (UE) exporte la moitié de ses plastiques collectés et triés, dont 85% vers la Chine. Les Etats-Unis ont eux envoyé en 2016 en Chine plus de la moitié de leurs exportations de déchets de métaux non ferreux, papiers et plastiques, soit 16,2 millions de tonnes.
+https://www.ouest-france.fr/economie/dechets-la-chine-ferme-sa-poubelle-panique-dans-les-pays-riches-5514882
+* Transition : beaucoup d'autres exemples possibles (biocarburant   )
+
+Conditions de travail très dures dans les entreprises de recyclage - 
+Idem dans l'énergie renouvelable 
+De meilleurs conditions dans les entreprises de l'énergie fossile
+lire https://www.bastamag.net/Salaires-non-payes-nouveaux-contrats-de-travail-imposes-les-etranges-pratiques
+--
+
+== Ecologie - qui est le coupable ?
+
+image::coupable.jpg[Gros Doigt montrant un individu, height={imageMaxHeight}]
+
+[NOTE.speaker]
+--
+* L'utilisateur n'est pas le plus à blamer, mais c'est notre société
+* notre civilisation qui mise tout sur le progrès.
+* On fait culpabiliser les individus, alors que l'état et les entreprises nous poussent à consommer
+--
+
+
+== Ecologie - Comment agir ? 
+
+== Ecologie - Actions individuelles
+
+[%step]
+* Recyclage
+* Déplacement à vélo
+* Réduction des déchets
+* Economie circulaire
+* Réduire sa consommation de viande
+* Boycott 
+* => Bien mais insuffisant
+
+[NOTE.speaker]
+--
+
+* Action individuelle bien, mais loin d'être suffisante
+* Mise en avant par le capitalisme
+* Ce n'est pas au niveau individuel, que l'on aura un vrai impact sur la planète
+* https://www.terrestres.org/2018/11/15/la-zad-et-le-colibri-deux-ecologies-irreconciliables/
+* Se donner bonne conscience - on fait culpabiliser l'individu
+
+--
+
+== Ecologie - Actions collectives
+
+[%step]
+* Porter les alternatives 
+* Luttes (Manifestation, Désobéissance civile, ZAD)
+* Illégalité <> Illégitimité
+
+[NOTE.speaker]
+--
+* Exemples de collectif : ANV COP 21, ALternatiba, Extinction Rebellion, etc.
+* Plusieurs niveaux de luttes : politique, juridique, médiatique, physique
+* Exemples de luttes : Larzac, Zad Notre Dame Des Landes, Bure, etc
+* Alliance de plusieurs mouvements avec des stratégies/tactiques différentes
+* Illégal mais légitime : Noirs dans les bus réservés aux blanc, résistance 2nde GM, Agent EDF qui ne coupe pas l'électricité
+--
+
+== Conclusion
+
+[NOTE.speaker]
+--
+* Société basée sur le progrès technique perpétuelle sans réfléchir à l'intérêt (exemple : TV 8K, réseau 5G)
+* Le smartphone, un exemple parmi tant d'autre.
+* Ne pas avoir de smartphone : initiative individuelle, peu d'impact sur la planète, mais beaucoup sur ma qualité de vie.
+* Avoir conscience de l'impact de la technologie
+* La technologie n'est pas la solution aux problèmes d'écologie
+* Les technologies vertes sont un mirage, mis en avant afin de continuer à consommer
+* Ecologie militante, esprit de résistance
+
+--
+
+== Pour aller plus loin
+
+* Revue Z - numéro Guyane
+* Livre "Mauvaises mines"
+* http://www.isf-systext.fr - Association Ingénieurs Sans Frontières
+* Livre "Les héros de l'environnement"
+* https://reporterre.net - Média sur l'écologie
+* http://partage-le.com - Critique socio-écologique radicale
+
+== Merci
+image::merci-patron.jpg[Affiche du film Merci Patron de François Ruffin, height={imageMaxHeight}]
+
+== Questions & infos
+
+* Présentation : https://fnegre.github.io/presentation-face-cachee-innovation-technologique
+* Sources : https://github.com/fnegre/presentation-face-cachee-innovation-technologique
+
+Twitter : {twitter}
+

@@ -1,0 +1,22 @@
+{
+  "name": "nouvelles-technologie-liberte-ailleurs",
+  "description": "Nouvelles technologies - la liberté est ailleurs",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://fnegre.github.io/nouvelles-technologie-liberte-ailleurs/",
+  "scripts": {
+    "serve": "node src/js/serve",
+    "build:local": "node src/js/build",
+    "build:prod": "node src/js/build && html-inline -i src/doc/generated/index.html -o dist/index.html -b ./",
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "asciidoctor-reveal.js": "1.1.3",
+    "asciidoctor.js": "1.5.6",
+    "browser-sync": "^2.26.3",
+    "gh-pages": "^2.1.1"
+  },
+  "dependencies": {
+    "html-inline": "^1.2.0"
+  }
+}
