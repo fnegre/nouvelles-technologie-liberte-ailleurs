@@ -114,26 +114,41 @@ image::surveillance.png[Dessin sur la surveillance, height={imageMaxHeight}]
 
 --
 
+== Vidéosurveillance
+
+* 134 caméras de surveillance dans la métropole Nantaise
+* Caméra pièton
+
+[NOTE.speaker]
+--
+* Caméras :
+** par ville : https://datawrapper.dwcdn.net/z04RG/3/
+** https://nantes.sous-surveillance.net
+** https://www.lemonde.fr/blog/internetactu/2018/06/02/videosurveillance-paradigme-du-technosolutionnisme/
+** Nantes dans l'illégalité : https://nantes.indymedia.org/articles/48855#comment-311203
+
+* Caméra pièton : caméra porté par un agent de police - ne permet pas de réduire
+les violences policières (exemple : manifestations où des violences policières sont filmées par ces caméras, et aucune sanction n'est infligée)
+** https://www.lepoint.fr/societe/les-cameras-pietons-des-policiers-seraient-en-grande-partie-inutilisables-22-01-2020-2359236_23.php 
 
 --
 
-== Vidéosurveillance
 
-* XX caméras de surveillance dans la métropole Nantaise
+== Reconnaissance faciale
+
 * Reconnaissance faciale dans des lycées
 * Vidéoprotection intelligente 
-* Caméra pièton
+* TODO Alicem  
 
 [NOTE.speaker]
 --
 * Reconnaissance faciale lycée marseille : https://www.laquadrature.net/2020/02/27/premiere-victoire-en-france-devant-la-justice-contre-la-reconnaissance-faciale/
 * ces dispositifs promettent de détecter automatiquement dans l’espace public des objets abandonnés, des mouvements de foule, des « comportements anormaux » (gestes brusques, maraudages, agression…), de faciliter le suivi d’individus (par la silhouette, la démarche…), ou de faire des recherches par « filtres » sur des images enregistrées (à partir de photos d’un individu qu’il s’agirait de retrouver dans les milliers de flux vidéos afin de suivre son parcours)safe-city-a-marseille-premier-recours-contre-la-videosurveillance-automatisee-de-lespace-public/
 * Mis en place ou projet à Marseille, Nico, St Etienne, etc.
-* https://nantes.sous-surveillance.net
 * https://www.laquadrature.net/2020/01/20/
-* Caméra pièton : caméra porté par un agent de police - ne permet pas de réduire
-les violences policières (exemple : manifestations où des violences policières sont filmées par ces caméras, et aucune sanction n'est infligée)
 * Parallèle avec le système de notation citoyenne en chine
+* https://www.courrierinternational.com/article/identification-coronavirus-en-chine-les-masques-font-derailler-la-reconnaissance-faciale
+
 
 --
 == Surveillance des Ouïghours en Chine
@@ -201,6 +216,7 @@ image::extracteur-donnees-smartphone.jpg[Cellebrite UFED, height={imageMaxHeight
 
 [NOTE.speaker]
 --
+
 Source:  https://www.developpez.com/actu/291079/France-500-commissariats-seront-bientot-equipes-d-un-outil-pour-aspirer-les-donnees-d-un-smartphone-en-10-minutes-des-associations-craignent-des-derives/
 * Extraction de toutes les données (photos, mails, données supprimées, etc.)
 * 17000 modèles de smartphones 
@@ -208,13 +224,15 @@ Source:  https://www.developpez.com/actu/291079/France-500-commissariats-seront-
 * Constructeur Cellebrite
 * a été piraté - fuite de "fichiers de preuve récoltés sur des téléphones portables"
 * Utilisation contre des journalistes (Nigeria, Myanmar): https://cpj.org/fr/2019/10/les-telephones-et-les-ordinateurs-de-journalistes-.php
+
 --
-== Arsenal juridique
+
+== ère du fichage
 
 * TAJ, TES, kézako
-* Surveillance politique :
-** Cellule Demeter
-** CIDPR 
+* Cellule Demeter
+* CIDPR 
+* Gendnotes
 
 [NOTE.speaker]
 --
@@ -228,10 +246,14 @@ https://www.laquadrature.net/2019/11/18/la-reconnaissance-faciale-des-manifestan
 * CIDPR  Comité interministériel de prévention de la délinquance et de la radicalisation
 https://www.cipdr.gouv.fr/
 Rapport Elargir "stop djihadisme" à d'autres formes de radicalisation (anarchiste, antisioniste, vegan) http://www.assemblee-nationale.fr/dyn/15/rapports/celgroued/l15b2006_rapport-enquete#P1790_427008
+* Gend Notes : Notes partagées de données sensibles par la police 
+https://www.nextinpact.com/news/108723-gendnotes-bloc-notes-2-0-gendarmes-pourra-comporter-donnees-sensibles.htm
+
+--
 
 == Exemple - Bure
 
-* Contestation contre le projet d'enfouissement de déchets radioactifs (CIGEO)
+Contestation contre le projet d'enfouissement de déchets radioactifs (CIGEO)
 
 [.step]
 * Mise sur écoute 
@@ -239,9 +261,6 @@ Rapport Elargir "stop djihadisme" à d'autres formes de radicalisation (anarchis
 * Géolocalisation 
 * Expertise ADN
 * Caméra espion
-
-image::camera-surveillance-bure.png[Caméra de surveillance trouvé à Bure, height={imageMaxHeight}]
-
 
 
 [NOTE.speaker]
@@ -275,12 +294,12 @@ https://desoreillesetdesyeux.noblogs.org/post/2018/12/10/fr-trois-cameras-de-sur
 
 
 == Merci
-image::merci-patron.jpg[Affiche du film Merci Patron de François Ruffin, height={imageMaxHeight}]
+
 
 == Questions & infos
 
-* Présentation : https://fnegre.github.io/presentation-face-cachee-innovation-technologique
-* Sources : https://github.com/fnegre/presentation-face-cachee-innovation-technologique
+* Présentation : https://fnegre.github.io/nouvelles-technologie-liberte-ailleurs/
+* Sources : https://github.com/fnegre/nouvelles-technologie-liberte-ailleurs
 
 Twitter : {twitter}
 
