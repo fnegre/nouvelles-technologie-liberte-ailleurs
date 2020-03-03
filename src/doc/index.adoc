@@ -1,11 +1,13 @@
 // Variables prédéfinis asciidoc
 :author: Florian Nègre
 :imagesDir: assets/images
+:customcss: assets/css/style.css
 // variables perso
 :twitter: @floriannegre
 :github: fnegre
 :videosDir: assets/videos
 :imageMaxHeight: 500
+
 
 
 // Configuration Reveal.js
@@ -29,22 +31,38 @@
 
 == Temps de travail
 
-Des semaines de 15h d'après John Maynard Keynes 
-
+* Des semaines de 15h d'après John Maynard Keynes 
+* 55 ans 
 
 
 [NOTE.speaker]
 --
 
- L’économiste John Maynard Keynes qui estimait « qu’à la fin du XXe siècle, les besoins économiques seraient satisfaits, au moins dans les pays développés, que les humains exploreraient d’autres chemins pour le progrès, et qu’ils consacreraient moins de vingt heures par semaine au travail ».
+* L’économiste John Maynard Keynes qui estimait « qu’à la fin du XXe siècle, les besoins économiques seraient satisfaits, au moins dans les pays développés, que les humains exploreraient d’autres chemins pour le progrès, et qu’ils consacreraient moins de vingt heures par semaine au travail ».
  source : https://onestla.tech/publications/retraite-et-climat-meme-combat/
+* Dans les années 80, un sondage a été fait sur l'âge de la retraite dans les prochaines années, les gens répondes 55 ans
 
 --
+
 
 [%notitle]
 == Violences conjugales
 
+
+[.important-text]
 149
+
+[NOTE.speaker]
+--
+* de 122 à 149 féminicides en france en 2019 (en fonction des sources)
+* 121 en 2018 
+* Difficultés pour porter plainte 
+
+--
+
+
+[%notitle]
+== Violences conjugales - affiche
 
 image::feminicide.jpg[Affiche contre les féminicides, height={imageMaxHeight}]
 
@@ -52,9 +70,6 @@ image::feminicide.jpg[Affiche contre les féminicides, height={imageMaxHeight}]
 
 [NOTE.speaker]
 --
-* de 122 à 149 féminicides en france en 2019 (en fonction des sources)
-* 121 en 2018 
-
 --
 
 == Ecologie
@@ -100,28 +115,43 @@ image::surveillance.png[Dessin sur la surveillance, height={imageMaxHeight}]
 --
 
 
+--
 
 == Vidéosurveillance
 
 * XX caméras de surveillance dans la métropole Nantaise
 * Reconnaissance faciale dans des lycées
-* Vidéoprotection intelligente
+* Vidéoprotection intelligente 
+* Caméra pièton
 
 [NOTE.speaker]
 --
+* Reconnaissance faciale lycée marseille : https://www.laquadrature.net/2020/02/27/premiere-victoire-en-france-devant-la-justice-contre-la-reconnaissance-faciale/
 * ces dispositifs promettent de détecter automatiquement dans l’espace public des objets abandonnés, des mouvements de foule, des « comportements anormaux » (gestes brusques, maraudages, agression…), de faciliter le suivi d’individus (par la silhouette, la démarche…), ou de faire des recherches par « filtres » sur des images enregistrées (à partir de photos d’un individu qu’il s’agirait de retrouver dans les milliers de flux vidéos afin de suivre son parcours)safe-city-a-marseille-premier-recours-contre-la-videosurveillance-automatisee-de-lespace-public/
-
+* Mis en place ou projet à Marseille, Nico, St Etienne, etc.
 * https://nantes.sous-surveillance.net
 * https://www.laquadrature.net/2020/01/20/
-
+* Caméra pièton : caméra porté par un agent de police - ne permet pas de réduire
+les violences policières (exemple : manifestations où des violences policières sont filmées par ces caméras, et aucune sanction n'est infligée)
+* Parallèle avec le système de notation citoyenne en chine
 
 --
+== Surveillance des Ouïghours en Chine
 
 
-== Ecoute téléphonique
+image::camp-ouighours[Camps d'internement en Chine des Ouighours, height={imageMaxHeight}]
+
+
+[NOTE.speaker]
+--
+* https://www.lefigaro.fr/flash-actu/pekin-utilise-la-reconnaissance-faciale-pour-surveiller-les-ouighours-presse-20190415
+* https://fr.news.yahoo.com/ouïghours-que-se-passe-il-ethnie-mususlmane-chine-084123032.html
+--
+
+== Ecoute téléphonique et électronique
 
 * PNIJ : platefome de surveillance de communication téléphonique et électronique 
-* Micro mouchard
+* Mouchard : micro, keylogger, rootkit, etc.
 
 
 
@@ -129,12 +159,15 @@ image::surveillance.png[Dessin sur la surveillance, height={imageMaxHeight}]
 --
 * Plateforme nationale des interceptions judiciaires (PNIJ)
 coût de 150 millions.
-Plateforme développée par Thalès en 2009
- 8 500 écoutes sont en cours via la Pnij et 900 000 SMS sont interceptés par semaine
-https://www.liberation.fr/france/2017/11/10/avec-la-pnij-les-ecoutes-telephoniques-en-plein-vertige_1609380
-
+** Plateforme développée par Thalès en 2009 
+* Chapoté par ANTENJ - Agence Nationale des Techniques d'Enquêtes Numériques Judiciaires  
+** 8 500 écoutes sont en cours via la Pnij et 900 000 SMS sont interceptés par semaine
+** Depuis septembre 2017, tout enquêteur qui veut écouter un numéro de téléphone, ou savoir à qui appartient une ligne, passe forcément par cette plateforme, reliée à tous les ordinateurs de la police, la gendarmerie, la justice. Les enquêteurs se connectent en quelques clics, avec une carte d'accès personnelle
+** https://www.liberation.fr/france/2017/11/10/avec-la-pnij-les-ecoutes-telephoniques-en-plein-vertige_1609380
+** https://www.franceinter.fr/emissions/dans-le-pretoire/dans-le-pretoire-27-avril-2018
 
  * Un micro est retrouvé au squat Awhanee (grenoble). Il est situé dans une multiprise. L’appareil contient un circuitimprimé et une batterie. Il semble que l’appareil ait été installé durant une perquisition plus tôt dans le mois.
+https://earsandeyes.noblogs.org/files/2019/10/exemples_francais_oct_2019.pdf
 
 --
 
@@ -159,24 +192,48 @@ source : https://fr.wikipedia.org/wiki/IMSI-catcher
 
 --
 
-== 
+[%notitle]
+== Appareil d'extraction de données des smartphones
 
 
-
+image::extracteur-donnees-smartphone.jpg[Cellebrite UFED, height={imageMaxHeight}]
 
 
 [NOTE.speaker]
 --
-
-
+Source:  https://www.developpez.com/actu/291079/France-500-commissariats-seront-bientot-equipes-d-un-outil-pour-aspirer-les-donnees-d-un-smartphone-en-10-minutes-des-associations-craignent-des-derives/
+* Extraction de toutes les données (photos, mails, données supprimées, etc.)
+* 17000 modèles de smartphones 
+* 500 Commissariats bientôt équipés
+* Constructeur Cellebrite
+* a été piraté - fuite de "fichiers de preuve récoltés sur des téléphones portables"
+* Utilisation contre des journalistes (Nigeria, Myanmar): https://cpj.org/fr/2019/10/les-telephones-et-les-ordinateurs-de-journalistes-.php
 --
-    
+== Arsenal juridique
+
+* TAJ, TES, kézako
+* Surveillance politique :
+** Cellule Demeter
+** CIDPR 
+
+[NOTE.speaker]
+--
+* TAJ : traitement des antécédents judiciaires - conservation 20 ans, même si on est jugé non coupable, car pas de maj automatique - système de reconnaissance faciale
+* TES : 
+https://www.laquadrature.net/2019/11/18/la-reconnaissance-faciale-des-manifestants-est-deja-autorisee/
+* Cellule demeter : Déméter suivra et tentera d’empêcher les « actions de nature idéologique, qu’il s’agisse de simples actions symboliques de dénigrement du milieu agricole ou d’actions dures ayant des répercussions matérielles ou physique » (anti chasse, anti fourrure, abattoir, etc.)
+  ** http://www.lafranceagricole.fr/actualites/elevage/association-anti-elevage-l214-denonce-la-creation-de-la-cellule-demeter-1,11,1592967347.html
+  ** https://reporterre.net/Demeter-la-cellule-de-la-Gendarmerie-qui-surveille-les-opposants-a-l-agriculture 
+  
+* CIDPR  Comité interministériel de prévention de la délinquance et de la radicalisation
+https://www.cipdr.gouv.fr/
+Rapport Elargir "stop djihadisme" à d'autres formes de radicalisation (anarchiste, antisioniste, vegan) http://www.assemblee-nationale.fr/dyn/15/rapports/celgroued/l15b2006_rapport-enquete#P1790_427008
 
 == Exemple - Bure
 
 * Contestation contre le projet d'enfouissement de déchets radioactifs (CIGEO)
-* 
 
+[.step]
 * Mise sur écoute 
 * Imsi Catcher
 * Géolocalisation 
@@ -197,10 +254,11 @@ https://www.liberation.fr/france/2018/11/14/bure-le-zele-nucleaire-de-la-justice
 Autorisé car instruction ouverte pour «association de malfaiteurs» 
 Utilisation aux abords d'un tribunal
 
-* Caméras : avec carte SIM
+* Caméra espion : avec carte SIM
 https://desoreillesetdesyeux.noblogs.org/post/2018/12/10/fr-trois-cameras-de-surveillance-exterieures-retrouvees-lors-dune-journee-de-soutien-france/
 
 --
+
 
 == Lutter
 
